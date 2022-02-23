@@ -143,9 +143,9 @@ function App() {
     setCurrentRowClass('')
   }
 
-  useEffect(() => {
-    saveGameStateToLocalStorage({ guesses, solution })
-  }, [guesses])
+  // useEffect(() => {
+  //   saveGameStateToLocalStorage({ guesses, solution })
+  // }, [guesses])
 
   useEffect(() => {
     if (isGameWon) {
