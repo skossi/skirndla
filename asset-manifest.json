@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skirndla/static/css/main.1325e3a1.css",
+    "main.js": "/skirndla/static/js/main.a1a5bfef.js",
+    "static/js/787.b3f9d252.chunk.js": "/skirndla/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/skirndla/index.html",
+    "main.1325e3a1.css.map": "/skirndla/static/css/main.1325e3a1.css.map",
+    "main.a1a5bfef.js.map": "/skirndla/static/js/main.a1a5bfef.js.map",
+    "787.b3f9d252.chunk.js.map": "/skirndla/static/js/787.b3f9d252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1325e3a1.css",
+    "static/js/main.a1a5bfef.js"
+  ]
+}
